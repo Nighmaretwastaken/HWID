@@ -1,0 +1,15 @@
+local black = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Nighmaretwastaken/NIGHTWARE/main/Hida'),true))()
+
+
+for i,v in pairs(black) do
+if v == HWID then
+print("YOU ARE BLACKLISTED")
+else
+if key == "nwaredcserver" then
+print("correct key")
+else
+print("invalid key")
+end
+print("Ok your good")
+end
+end
